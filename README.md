@@ -266,4 +266,4 @@ body {
 ![image](https://user-images.githubusercontent.com/119389139/214046834-6bdf575e-b0d4-475f-917c-81f95a60c75e.png)
 
 ## Result:
-The program for designing a simple calculator using JavaScript is executed successfully.
+The program for designing a simple calculator using JavaScript is executed successfully
